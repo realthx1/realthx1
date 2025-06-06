@@ -10,6 +10,8 @@
  
 * TypeScript - 1 year
 
+* Rust - less than 1 year
+
  ---
 
 **Languages:**
