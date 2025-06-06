@@ -9,7 +9,8 @@
 * C# - 1 year
  
 * TypeScript - 1 year
- 
+
+ ---
 
 **Languages:**
 
