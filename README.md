@@ -9,10 +9,11 @@
 * Rust
 
 **Had experience with:**
-* NVIM
+* Neovim
 * C++
 * C#
 * TypeScript
+* Assembly
 
  ---
 
