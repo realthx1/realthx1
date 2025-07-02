@@ -1,21 +1,29 @@
 # Hello, I'm Ashley.
 
-**Programming/scripting languages:**
+**Currently working with:**
+* Luau
+* Git
+* VSCode
 
-* Luau - 6 years
- 
-* C++ - 1 year
- 
-* C# - 1 year
- 
-* TypeScript - 1 year
+**Learning:**
+* Rust
 
-* Rust - less than 1 year
+**Had experience with:**
+* NVIM
+* C++
+* C#
+* TypeScript
 
  ---
 
 **Languages:**
-
 * Russian - C2 (native)
- 
 * English - C1 (fluent)
+
+---
+
+<p align="center">
+  <picture>
+    <img src="https://github-readme-stats.vercel.app/api?username=AshleyThx&show_icons=true&theme=dark" />
+  </picture>
+</p>
