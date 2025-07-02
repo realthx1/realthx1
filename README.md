@@ -4,16 +4,18 @@
 * Luau
 * Git
 * VSCode
+* Windows
 
 **Learning:**
 * Rust
 
 **Had experience with:**
-* Neovim
 * C++
 * C#
 * TypeScript
 * Assembly
+* Neovim
+* Linux
 
  ---
 
