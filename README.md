@@ -1,4 +1,4 @@
-# Hello, I'm Ashley.
+# Hello, I'm Noli.
 
 **Currently working with:**
 * Luau
@@ -27,6 +27,6 @@
 
 <p align="center">
   <picture>
-    <img src="https://github-readme-stats.vercel.app/api?username=AshleyThx&show_icons=true&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api?username=realthx1&show_icons=true&theme=dark" />
   </picture>
 </p>
